@@ -7,6 +7,8 @@ pictures, audio and movies are given with the download. you will need to make a 
 
 to watch the openFrameworks series, you can go to here: [**openFrameworks tutorials**](https://www.youtube.com/c/lewislepton)
 
+i do not comment the code whilst doing these tutorials. so its best to follow along with the videos to know what is actually happening ;)
+
 have fun and happy coding
 
 lewis lepton
