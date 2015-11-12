@@ -15,3 +15,6 @@ have fun and happy coding
 lewis lepton
 
 [**lewislepton.com**](http://lewislepton.com)
+
+*UPDATE*
+this series is now on the [**openFrameworks**](http://www.openframeworks.cc/) site - check the tutorials section
