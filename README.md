@@ -1,8 +1,10 @@
+![image](image/screenshot.png)
+
 # openFrameworks tutorial series
 
 Source code from the openFrameworks tutorial series.
 
-Watch the openFrameworks series here: [**openFrameworks tutorials**](https://www.youtube.com/c/lewislepton)
+Watch the openFrameworks playlist here: [**openFrameworks Tutorial Series**](https://www.youtube.com/watch?v=dwt2NAd1ZYY&list=PL4neAtv21WOlqpDzGqbGM_WN2hc5ZaVv7)
 
 ---
 
@@ -18,8 +20,7 @@ Tutorial projects are uploaded when newer videos are made public.
 ---
 
 # Patreon
-
-You can support the channel by becoming a [**Patreon backer**](https://patreon.com/lewislepton), you get to watch videos & also download the source code in advance.
+You can support the channel by becoming a [**Patreon backer**](https://patreon.com/lewislepton), you get to watch videos early & get your hands on the source code.
 
 ---
 
