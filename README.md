@@ -15,12 +15,15 @@ Watch the openFrameworks playlist here: [**openFrameworks Tutorial Series**](htt
 
 ---
 
-Tutorial projects are uploaded when newer videos are made public.
+Tutorials are released on Tuesdays & Thursdays
 
 ---
 
 # Patreon
-You can support the channel by becoming a [**Patreon backer**](https://patreon.com/lewislepton), you get to watch videos early & get your hands on the source code.
+You can support the channel by becoming a [**Patreon backer**](https://patreon.com/lewislepton), you get to watch videos early & get your hands on the source code.<br>
+I do all the work on these tutorials, from recording, editing, design, music & research. So if you want to help support my work to help others learn, why not become a backer?
+<br>
+Any & all support is welcome & helps so much ;)
 
 ---
 
